@@ -24,8 +24,7 @@ This is a simple **War Card Game** built using **SwiftUI** for iOS. The game all
 
 ## 🖼️ Screenshots
 
-<img src="Images/screenshot1.png" width="300" />
-<img src="Images/screenshot2.png" width="300" />
+<img src="Images/Example.png" width="300" />
 
 ---
 

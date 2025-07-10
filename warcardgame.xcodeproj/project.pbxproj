@@ -45,6 +45,11 @@
 			path = warcardgameUITests;
 			sourceTree = "<group>";
 		};
+		C98C5FC42E201C5A00AB8345 /* Images */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Images;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +80,7 @@
 		C9815A2B2E1F748800B5020C = {
 			isa = PBXGroup;
 			children = (
+				C98C5FC42E201C5A00AB8345 /* Images */,
 				C9815A362E1F748800B5020C /* warcardgame */,
 				C9815A452E1F748900B5020C /* warcardgameTests */,
 				C9815A4F2E1F748900B5020C /* warcardgameUITests */,
@@ -109,6 +115,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				C9815A362E1F748800B5020C /* warcardgame */,
+				C98C5FC42E201C5A00AB8345 /* Images */,
 			);
 			name = warcardgame;
 			packageProductDependencies = (
